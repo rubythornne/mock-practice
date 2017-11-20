@@ -1,0 +1,73 @@
+body {
+           background-color: aqua;
+      }  
+        
+      header h1 {
+                color: purple;
+      }
+      
+      
+      h1 {
+         color:red;
+      }
+    
+      img {
+          width: 60%
+          height: auto;
+      }
+      
+          nav {
+          background-color: bisque;
+      }
+      
+      #main {
+             color: gray;
+      }
+      
+      p {
+        color: yellow;
+      }
+      
+      aside p {
+               background-color: green;
+      }
+      
+      a {
+        text-decoration: line-through;
+      }
+     nav a:hover {
+                  font-size:1.5em;      
+      }
+      
+      p::first-letter {
+                      color: red;
+                      font-size: 2em;
+      }
+      
+      h1:hover {
+               color: red;   
+      }
+      
+      a p::first-letter {
+                          font-size: 2em;
+      }
+      
+      a: visited {
+        text-decoration: none;
+      }
+      
+      header {
+             width:75%;
+             margin:auto;
+          
+      }
+      
+      article {
+              width:50%;
+              margin: auto;
+              background-color: blanchedalmond;
+      }
+      
+      footer {
+             border: 1px solid red;
+      }
